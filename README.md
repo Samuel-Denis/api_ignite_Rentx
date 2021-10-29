@@ -4,15 +4,14 @@
 Deve ser possível cadastrar um novo carro.
 
 **RN**
-Não deve ser possível cadastrar um carro uma placa já existente.
-O carro deve ser cadastrado com disponibilidade por padrão.
+Não deve ser possível cadastrar um carro com uma placa já existente. O carro deve ser cadastrado com disponibilidade por padrão.
 
 - O usuário responsável pelo cadastro deve ser um usuário administrador.
 
 # Listagem de carros
 
 **RF**
-Deve ser possível de todos os carros disponíveis.
+Deve ser possível listar todos os carros disponíveis.
 Deve ser possível listar todos os carros disponíveis pelo nome da categoria.
 Deve ser possível listar todos os carros disponíveis pelo nome da marca.
 Deve ser possível listar todos os carros disponíveis pelo nome do carro.
