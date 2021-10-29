@@ -1,1 +1,10 @@
 node_modules
+dist
+.env
+.env.test
+tmp
+coverage
+ignite-nodejs.pem
+.vscode
+
+
