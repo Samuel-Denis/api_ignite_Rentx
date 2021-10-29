@@ -1,7 +1,7 @@
 import express from 'express';
 import swaggerUI from 'swagger-ui-express';
 
-import { router } from './routes';
+import { router } from '@shared/infra/http/routes';
 import swaggerFile from './swagger.json';
 
 import './database';
